@@ -1,4 +1,3 @@
-```markdown
 # SQL Table Name and WHERE Clause Extractor
 
 ## Overview
