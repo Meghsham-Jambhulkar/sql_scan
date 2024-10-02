@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script processes SQL files to extract key information such as table names, SQL operation types (e.g., `FROM`, `JOIN`, `INTO`, `UPDATE`, `MERGE INTO`), and any associated `WHERE` conditions. The script automatically formats the SQL file for better readability and generates a detailed report containing the extracted information.
+This Python script processes SQL files to extract key information such as table names, SQL operation types (e.g., `FROM`, `JOIN`, `INTO`, `UPDATE`, `MERGE INTO`), and any associated `WHERE` conditions. The script have an option to automatically format the SQL file for better readability and generates a detailed report containing the extracted information and save it as seperate file using filename format (`formatted_<sql_file_name>`).
 
 ## Features
 
