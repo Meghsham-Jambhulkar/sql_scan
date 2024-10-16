@@ -103,7 +103,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the contributors of the `sqlparse` library, which greatly enhances the formatting capabilities of **sql_scan**.
 - Special thanks to the open-source community for their continuous support and inspiration.
 
----
 
 For more information, feel free to reach out via [meghshamofficial@gmail.com](mailto:meghshamofficial@gmail.com).
-```
